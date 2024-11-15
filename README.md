@@ -42,7 +42,7 @@ A frontend clone of the Gemini cryptocurrency platform:
 Replicates the user interface of Gemini
 Designed with responsive layouts and CSS animations
 Built with React.js
-(https://github.com/PoojaR-17/Gimini-Clone-App)|(https://stirring-cajeta-21cb78.netlify.app/)
+(https://github.com/PoojaR-17/Gimini-Clone-App) | (https://stirring-cajeta-21cb78.netlify.app/)
 
 3. Personal Portfolio
 A portfolio website showcasing my skills, projects, and achievements:
