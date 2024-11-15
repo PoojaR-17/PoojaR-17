@@ -42,7 +42,7 @@ A frontend clone of the Gemini cryptocurrency platform:
 Replicates the user interface of Gemini
 Designed with responsive layouts and CSS animations
 Built with React.js
-![Gemini](https://github.com/PoojaR-17/Gimini-Clone-App)| ![Live Demo](https://stirring-cajeta-21cb78.netlify.app/)
+(https://github.com/PoojaR-17/Gimini-Clone-App)|(https://stirring-cajeta-21cb78.netlify.app/)
 
 3. Personal Portfolio
 A portfolio website showcasing my skills, projects, and achievements:
@@ -50,9 +50,8 @@ A portfolio website showcasing my skills, projects, and achievements:
 Includes an About Me section, Project Gallery, and a Contact Form
 Designed for seamless navigation and accessibility
 Fully responsive across devices
-![Protfolio](https://github.com/PoojaR-17/Responsive_Protfolio) | ![Live Demo](
-https://sprightly-kashata-6ddd70.netlify.app/
-)
+(https://github.com/PoojaR-17/Responsive_Protfolio) |(
+https://sprightly-kashata-6ddd70.netlify.app/)
 
 📫 Connect with Me
 Email: poojaomkar.19@example.com
