@@ -34,7 +34,7 @@ A weather forecasting web application that:
 Fetches real-time weather data from an external API
 Displays current conditions, forecasts, and temperature trends
 Features a clean and responsive UI
-GitHub Repository | Live Demo
+![Weather](https://github.com/PoojaR-17/Weather_Forecasting_app) | ![Live Demo]( https://quiet-salmiakki-cb6348.netlify.app/)
 
 2. Gemini Clone
 A frontend clone of the Gemini cryptocurrency platform:
@@ -42,7 +42,7 @@ A frontend clone of the Gemini cryptocurrency platform:
 Replicates the user interface of Gemini
 Designed with responsive layouts and CSS animations
 Built with React.js
-GitHub Repository | Live Demo
+![Gemini](https://github.com/PoojaR-17/Gimini-Clone-App)| ![Live Demo](https://stirring-cajeta-21cb78.netlify.app/)
 
 3. Personal Portfolio
 A portfolio website showcasing my skills, projects, and achievements:
@@ -50,7 +50,9 @@ A portfolio website showcasing my skills, projects, and achievements:
 Includes an About Me section, Project Gallery, and a Contact Form
 Designed for seamless navigation and accessibility
 Fully responsive across devices
-GitHub Repository | Live Demo
+![Protfolio](https://github.com/PoojaR-17/Responsive_Protfolio) | ![Live Demo](
+https://sprightly-kashata-6ddd70.netlify.app/
+)
 
 📫 Connect with Me
 Email: poojaomkar.19@example.com
