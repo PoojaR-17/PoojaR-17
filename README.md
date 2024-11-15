@@ -28,26 +28,28 @@ Designing responsive layouts for optimal user experience
 Learning new technologies and frameworks
 Collaborating on open-source projects
 🏗️ Featured Projects
-1. MERN Stack Kanban Board
-A feature-rich task management system with:
+1. Weather API
+A weather forecasting web application that:
 
-User authentication using JWT
-Role-based access control
-Task sorting, filtering, and pagination
+Fetches real-time weather data from an external API
+Displays current conditions, forecasts, and temperature trends
+Features a clean and responsive UI
 GitHub Repository | Live Demo
 
-2. Library Management System
-A library system with secure APIs to:
+2. Gemini Clone
+A frontend clone of the Gemini cryptocurrency platform:
 
-Add, view, edit, and delete books
-Role-based permissions for CREATOR, VIEWER, and ADMIN roles
+Replicates the user interface of Gemini
+Designed with responsive layouts and CSS animations
+Built with React.js
 GitHub Repository | Live Demo
 
-3. Movie Store API
-Backend application for managing a movie database, featuring:
+3. Personal Portfolio
+A portfolio website showcasing my skills, projects, and achievements:
 
-CRUD operations
-Pagination, filtering, and sorting
+Includes an About Me section, Project Gallery, and a Contact Form
+Designed for seamless navigation and accessibility
+Fully responsive across devices
 GitHub Repository | Live Demo
 
 📫 Connect with Me
