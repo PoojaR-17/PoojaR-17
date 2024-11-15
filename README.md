@@ -34,7 +34,7 @@ A weather forecasting web application that:
 Fetches real-time weather data from an external API
 Displays current conditions, forecasts, and temperature trends
 Features a clean and responsive UI
-![Weather](https://github.com/PoojaR-17/Weather_Forecasting_app) | ![Live Demo]( https://quiet-salmiakki-cb6348.netlify.app/)
+(https://github.com/PoojaR-17/Weather_Forecasting_app) | ( https://quiet-salmiakki-cb6348.netlify.app/)
 
 2. Gemini Clone
 A frontend clone of the Gemini cryptocurrency platform:
